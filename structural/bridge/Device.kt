@@ -1,5 +1,6 @@
 package structural.bridge
 
+// implementation
 interface Device {
 
     fun isEnabled(): Boolean

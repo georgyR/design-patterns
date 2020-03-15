@@ -1,5 +1,6 @@
 package structural.bridge
 
+// abstraction
 class RemoteController(private val device: Device) {
 
     fun togglePower() {
